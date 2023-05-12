@@ -1,0 +1,17 @@
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\bin\Debug\net6.0-windows\magnificent-motel-sac.exe
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\bin\Debug\net6.0-windows\magnificent-motel-sac.deps.json
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\bin\Debug\net6.0-windows\magnificent-motel-sac.runtimeconfig.json
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\bin\Debug\net6.0-windows\magnificent-motel-sac.dll
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\bin\Debug\net6.0-windows\magnificent-motel-sac.pdb
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\obj\Debug\net6.0-windows\magnificent-motel-sac.vbproj.AssemblyReference.cache
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\obj\Debug\net6.0-windows\magnificent_motel_sac.Form1.resources
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\obj\Debug\net6.0-windows\magnificent-motel-sac.vbproj.GenerateResource.cache
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\obj\Debug\net6.0-windows\magnificent-motel-sac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\obj\Debug\net6.0-windows\magnificent-motel-sac.AssemblyInfoInputs.cache
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\obj\Debug\net6.0-windows\magnificent-motel-sac.AssemblyInfo.vb
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\obj\Debug\net6.0-windows\magnificent-motel-sac.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\obj\Debug\net6.0-windows\magnificent-motel-sac.dll
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\obj\Debug\net6.0-windows\refint\magnificent-motel-sac.dll
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\obj\Debug\net6.0-windows\magnificent-motel-sac.pdb
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\obj\Debug\net6.0-windows\magnificent-motel-sac.genruntimeconfig.cache
+C:\Users\ihsaa\GitHub Projects\magnificent-motel-sac\magnificent-motel-sac\magnificent-motel-sac\obj\Debug\net6.0-windows\ref\magnificent-motel-sac.dll
